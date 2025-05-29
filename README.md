@@ -32,8 +32,3 @@ A professional Power BI dashboard built for ElectroHub to analyze and visualize 
 - `Power BI Project 1 Requirements.pptx` – Project briefing & task scope
 )
 
-
-## Project Files
-- `Sales Dashboard.pbix` – Interactive dashboard file
-- `Store Data.xlsx` – Dataset
-- `Power BI Project 1 Requirements.pptx` – Project briefing & task scope
