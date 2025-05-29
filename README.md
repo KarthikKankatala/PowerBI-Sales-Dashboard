@@ -19,7 +19,12 @@ A professional Power BI dashboard built for ElectroHub to analyze and visualize 
 - DAX for measures and time intelligence
 
 ## Preview
-![Dashboard Screenshot](C:\Users\KARTHIK\Downloads\Assets\1)
+![Dashboard Screenshot](https://github.com/KarthikKankatala/PowerBI-Sales-Dashboard/blob/main/Assets/1.png)
+![Dashboard Screenshot](https://github.com/KarthikKankatala/PowerBI-Sales-Dashboard/blob/main/Assets/2.png)
+![Dashboard Screenshot](https://github.com/KarthikKankatala/PowerBI-Sales-Dashboard/blob/main/Assets/3.png)
+![Dashboard Screenshot](https://github.com/KarthikKankatala/PowerBI-Sales-Dashboard/blob/main/Assets/4.png)
+![Dashboard Screenshot](https://github.com/KarthikKankatala/PowerBI-Sales-Dashboard/blob/main/Assets/5.png)
+
 
 ## Project Files
 - `Sales Dashboard.pbix` – Interactive dashboard file
